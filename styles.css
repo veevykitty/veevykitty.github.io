@@ -5,5 +5,5 @@ body {
     color: blue;
   }
   p {
-    color: fuchsia;
+    color: fuchsia;border: 5px solid black;
   }
