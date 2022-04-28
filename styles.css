@@ -1,9 +1,17 @@
 body {
-    background-color:cadetblue;font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:cadetblue;font-family:Verdana, Geneva, Tahoma, sans-serif;background-image: url("hack.jpg");height: 100%;background-position: center;background-repeat:no-repeat;background-size:cover;text-align:center;
   }
   h1 {
     color: blue;
   }
-  p {
-    color: fuchsia;border: 5px solid black;
+  h2 {
+    color: paleturquoise;
   }
+  p {
+    color: fuchsia;
+  }
+
+  a {
+    color:purple;
+  }
+
