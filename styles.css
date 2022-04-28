@@ -1,5 +1,5 @@
 body {
-    background-color:cadetblue;font-family:Verdana, Geneva, Tahoma, sans-serif;background-image: url("hack.jpg");height: 100%;background-position: center;background-repeat:no-repeat;background-size:cover;text-align:center;
+    background-color:cadetblue;font-family:Verdana, Geneva, Tahoma, sans-serif;background-image: url("hack.jpg");height: 100%;width:device-width;background-position: center;background-repeat:no-repeat;background-size:cover;text-align:center;
   }
   h1 {
     color: blue;
