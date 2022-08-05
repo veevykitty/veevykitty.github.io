@@ -2,7 +2,7 @@ body {
     background-color:cadetblue;font-family:Verdana, Geneva, Tahoma, sans-serif;background-image: url("hack.jpg");height: 100%;width:device-width;background-position: center;background-repeat:no-repeat;background-size:cover;text-align:center;
   }
   h1 {
-    color: blue;
+    color: fuchsia;
   }
   h2 {
     color: paleturquoise;
@@ -14,4 +14,8 @@ body {
   a {
     color:purple;
   }
+  @font-face {
+    font-family: FukuCatch;
+    src: url("/FukuCatch.otf") format("opentype");
+}
 
